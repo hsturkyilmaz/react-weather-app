@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## API Key
 
-In order for the application to work, you need to write the API key you got from https://openweathermap.org/ by creating an .env file in the project main index.
+In order for the application to work, you need to write the API key you got from https://openweathermap.org/ by creating an ".env" file in the project main index.
 
 ## Available Scripts
 
